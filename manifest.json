@@ -1,0 +1,12 @@
+{
+  "author": {
+    "name": "Eric Dahl",
+    "email": "edahl@groupon.com"
+  },
+  "frameworkVersion": "1.0",
+  "location": "ticket_sidebar",
+  "defaultLocale": "en",
+  "private": true,
+  "singleInstall": true,
+  "version": "1.0.0"
+}

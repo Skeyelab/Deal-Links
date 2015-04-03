@@ -1,0 +1,18 @@
+<section data-main>
+  <div id='links'>
+<h2 align="center">Links for:<br/>{{permalink}}</h2>
+    <table class="tg">
+      <tr>
+        <th class="tg-s6z2"><a href="https://dealestate.groupondev.com/deals/search?search={{permalink}}" target="_blank">Deal Estate</a></th>
+        <th class="tg-s6z2"><a href="https://admin.groupon.com/admin/deals/{{permalink}}/notes" target="_blank">Notes Page</a></th>
+        <th class="tg-s6z2"><a href="https://merchants.groupon.com/{{permalink}}" target="_blank">Merch Center</a></th>
+      </tr>
+      <tr>
+        <th class="tg-s6z2"><a href="https://www.groupon.com/deals/{{permalink}}" target="_blank">Deal Page</a></th>
+        <th class="tg-s6z2"><a href="https://grouponriskmgmt.zendesk.com/agent/search?by_updated=1&page=1&query={{permalink}}" target="_blank">ZD Search</a></th>
+        <th class="tg-s6z2"><a href="https://na8.salesforce.com/_ui/search/ui/UnifiedSearchResults?searchType=2&sen=a0d&sen=00O&sen=a0P&sen=005&sen=006&sen=00Q&sen=001&sen=003&sen=500&str={{permalink}}" target="_blank">SF Search</a></th>
+      </tr>
+    </table>
+
+  </div>
+</section>
